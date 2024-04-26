@@ -14,4 +14,7 @@ My biggest challenge was having the inventory app to populate the inventory into
 # Number One Component:
 The creation of the UI was the most successful component of the application. Hooking up the database was a challenge but overall, I found the creation of the UI to be the better component created. I was able to demonstrate the knowledge learned from the course by applying best practices for Android applications.  
 # Screenshots 
+Home Screen
 ![image](https://github.com/Nickrenna13/CS-360-Mobile-Programming/assets/115961576/9121f4df-0dfe-4810-a0f4-62c680010b70)
+Login
+![image](https://github.com/Nickrenna13/CS-360-Mobile-Programming/assets/115961576/55386086-93cf-4234-8f20-539e5b0c6ec3)
