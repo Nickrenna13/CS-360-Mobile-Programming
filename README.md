@@ -27,7 +27,8 @@ SMS messaging Screen
 Add Inventory 
 ![image](https://github.com/Nickrenna13/CS-360-Mobile-Programming/assets/115961576/fd149d73-f2f9-4279-b3d7-9516c4a88da3)
 Editing pop up window
-![image](https://github.com/Nickrenna13/CS-360-Mobile-Programming/assets/115961576/2fc6be4c-53b5-478d-bf59-f7eab00b4cba)
+![image](https://github.com/Nickrenna13/CS-360-Mobile-Programming/assets/115961576/2b2ed868-1b89-488f-b4d0-cb9bc7f6791d)
+
 
 
 
