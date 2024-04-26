@@ -18,3 +18,21 @@ Home Screen
 ![image](https://github.com/Nickrenna13/CS-360-Mobile-Programming/assets/115961576/9121f4df-0dfe-4810-a0f4-62c680010b70)
 Login
 ![image](https://github.com/Nickrenna13/CS-360-Mobile-Programming/assets/115961576/55386086-93cf-4234-8f20-539e5b0c6ec3)
+Register
+![image](https://github.com/Nickrenna13/CS-360-Mobile-Programming/assets/115961576/ccf91ba3-8d5e-4fed-9081-73f596c64660)
+Inventory Screen
+![image](https://github.com/Nickrenna13/CS-360-Mobile-Programming/assets/115961576/a3b1f249-8efa-47a3-b4a8-4779fb1d67ce)
+SMS messaging Screen
+![image](https://github.com/Nickrenna13/CS-360-Mobile-Programming/assets/115961576/0d820f14-659e-40b3-a7aa-9e490c81f533)
+Add Inventory 
+![image](https://github.com/Nickrenna13/CS-360-Mobile-Programming/assets/115961576/fd149d73-f2f9-4279-b3d7-9516c4a88da3)
+Editing pop up window
+![image](https://github.com/Nickrenna13/CS-360-Mobile-Programming/assets/115961576/2fc6be4c-53b5-478d-bf59-f7eab00b4cba)
+
+
+
+
+
+
+
+
